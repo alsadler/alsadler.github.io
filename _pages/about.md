@@ -6,7 +6,7 @@ subtitle: Inria CASH team, Lyon
 
 profile:
   align: right
-  image: me.jpg
+  image: me2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 GN1.354 N</p>

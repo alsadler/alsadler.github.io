@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-joined the Lipari Summer School on Abstract Interpretation in Lipari!
+Joined the Lipari Summer School on Abstract Interpretation in Lipari!
