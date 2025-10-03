@@ -67,7 +67,7 @@
       ]
     }
   ],
-  "teaching experience": [
+  "teaching": [
     {
       "position": "Compiler Courses",
       "url": "https://compil-lyon.gitlabpages.inria.fr/",
@@ -108,7 +108,7 @@
     },
     {
       "institution": "Ecole Nationale Supérieur d'Informatique pour l'Industrie et les Entreprises",
-      "location": "Evry-Courcouronnes, France",
+      "location": "Evry, France",
       "url": "https://ensiie.fr",
       "area": "Computer science",
       "studyType": "Master",

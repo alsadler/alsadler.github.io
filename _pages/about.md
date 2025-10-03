@@ -9,8 +9,8 @@ profile:
   image: me2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 GN1.354 N</p>
-    <p>123 46 Allée D'Italie</p>
+    <p>LIP, GN1.354 N</p>
+    <p>46 Allée D'Italie</p>
     <p>69364, Lyon</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -38,3 +38,5 @@ Hello! I am a PhD student in the [CASH](https://www.ens-lyon.fr/LIP/CASH/) team 
 My interest are compilers and parallel paradigms. Thus, I am particularly interested in providing helpful algorithms for compilers to generate efficient code on modern parallel architectures.
 
 My current research focus on exploring static analysis for programs manipulating sparse matrices, using the [polyhedral model](http://polyhedral.info/). It is part of the [PEPR Numpex](https://numpex.org/fr/) program.
+
+Before starting my PhD, I completed my studies at the École Nationale Supérieure d’Informatique pour l’Industrie et l’Entreprise (ENSIIE) in France, with a focus on High Performance Computing.
