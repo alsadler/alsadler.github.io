@@ -426,19 +426,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-2",
-          title: 'Announcement_2',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-my-first-ever-citation",
           title: 'My first ever citation!',
           description: "",
           section: "News",},{id: "news-joined-the-lipari-summer-school-on-abstract-interpretation-in-lipari",
-          title: 'joined the Lipari Summer School on Abstract Interpretation in Lipari!',
+          title: 'Joined the Lipari Summer School on Abstract Interpretation in Lipari!',
           description: "",
           section: "News",},{id: "news-joined-the-deepgreen-mlir-winter-school-in-paris",
           title: 'Joined the Deepgreen MLIR winter school in Paris!',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-at-impact-25-workshop-automatic-specialization-of-polyhedral-programs-on-sparse-structures",
+          title: 'Paper accepted at IMPACT’25 workshop: “Automatic Specialization of Polyhedral Programs on Sparse Structures”....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
