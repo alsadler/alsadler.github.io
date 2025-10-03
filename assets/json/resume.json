@@ -5,8 +5,7 @@
     "image": "",
     "email": "alec.sadler@inria.fr",
     "phone": "+33 6 60 37 83 18",
-    "url": "https://alsadler.github.io",
-    "summary": "I am a PhD student, specialised in compilers",
+    "summary": "PhD student, specialised in compilers",
     "location": {
       "address": "46 Allée D'Italie",
       "postalCode": "69364",
@@ -22,7 +21,7 @@
       }
     ]
   },
-  "work experience": [
+  "work": [
     {
       "name": "Lyon, France",
       "position": "PhD student in computer science",
