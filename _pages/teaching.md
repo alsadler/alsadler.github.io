@@ -21,7 +21,7 @@ nav_order: 6
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2023-2025</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">○ Undergraduate/graduate-level course on compilers and language traductions.<a href="https://matthieu-moy.fr/spip/" target="_blank">Matthieu MOY</a>.</li>
+      <li class="list-group-item">○ Undergraduate/graduate-level course on compilers and language traductions. taught by <a href="https://matthieu-moy.fr/spip/" target="_blank">Matthieu MOY</a>.</li>
       <li class="list-group-item">○ Supervised Labs and Tutorials for groups of students.</li>
     </ul>
   </div>
@@ -81,7 +81,7 @@ nav_order: 6
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2024-2025</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">○ Undergraduate-level introduction for imperative languages.<a href="https://liris.cnrs.fr/page-membre/elodie-desseree" target="_blank">Elodie DESSEREE</a>.</li>
+      <li class="list-group-item">○ Undergraduate-level introduction for imperative languages. Taught by <a href="https://liris.cnrs.fr/page-membre/elodie-desseree" target="_blank">Elodie DESSEREE</a>.</li>
       <li class="list-group-item">○ Supervised Labs for groups of students.</li>
     </ul>
   </div>
