@@ -71,7 +71,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Compiler Courses</h5>
+        <h5 class="font-weight-bold">Imperative Programming</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <a class="badge font-weight-bold danger-color-dark darken-1 text-uppercase align-middle" href="https://perso.univ-lyon1.fr/elodie.desseree/LIFAPI/" target="_blank">
